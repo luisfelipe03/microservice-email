@@ -1,6 +1,6 @@
 <hgroup><center><h1><b>API para envio de email</b></h1></center>
  
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=dark&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=dark&style=for-the-badge)
 
 ## Tecnologias usadas no projeto
 
